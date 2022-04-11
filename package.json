@@ -1,0 +1,18 @@
+{
+  "name": "jobstreet-scraper-nodejs",
+  "version": "1.0.0",
+  "description": "A web scrapper for job postings inJobStreet PH using NodeJS and Puppeteer",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "web-scrapper",
+    "jobstreet"
+  ],
+  "author": "Eron Tancioco <tancioco.eron@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  }
+}
